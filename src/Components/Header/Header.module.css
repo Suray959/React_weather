@@ -14,12 +14,15 @@
     margin: 40px;
     margin-left: 50px;
     background-color: rgba(124, 122, 124, 0.356); 
-    border: 0;
+    border: none;
     border-radius: 5px;
+    box-sizing: border-box;
+    padding: 7px 13px 7px 35px;
 }
 .search input::placeholder{
     color: white;
     font-family: Montserrat;
+
 }
 .image{
  display: flex;

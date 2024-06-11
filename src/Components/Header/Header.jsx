@@ -5,7 +5,7 @@ function Header() {
   return (
     <div className={style.body}>
         <div className={style.search}  >
-        <input type="search"  placeholder='          Search for location' />
+        <input type="search"  placeholder='Search for location' />
         </div>
         <div className={style.image}>
             <img  className={style.bell}    src="https://cdn-icons-png.flaticon.com/128/10156/10156084.png"  />
