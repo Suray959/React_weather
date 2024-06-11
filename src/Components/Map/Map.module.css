@@ -1,0 +1,12 @@
+.image  {
+    position: absolute;
+    top: 170px;
+    left:31%;
+  
+
+}
+.image img{
+    border-radius:15px ;
+    width: 47.5%;
+  
+}
